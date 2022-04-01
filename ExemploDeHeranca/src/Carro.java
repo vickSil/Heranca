@@ -4,7 +4,7 @@ public class Carro extends Veiculo{
 	@Override
 	public void imprimeDados() {
 		super.imprimeDados();
-		System.out.println("Qautro portas: " + quatroPortas);
+		System.out.println("Quatro portas: " + quatroPortas);
 	}
 
 	private boolean quatroPortas;
